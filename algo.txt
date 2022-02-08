@@ -1,2 +1,11 @@
-1st) Google local pizza places
-2nd) Decide which pizza place to order from.
+1) Google local Sushi places
+2) Decide which Sushi place to order from
+3) Call the establishment
+4) Place our order 
+5a    IF we pay over the phone then provide payment info
+        - Wait for delivery
+        - Tip the driver
+5b    IF we are going to pay at the door
+        - Wait for delivery
+        - Pay for the Sushi
+        - Tip the driver
